@@ -1,56 +1,27 @@
 # www.dialogsync.com
 
+dialogsync is a documentation system, where you're either documenting a file structure or you're using a document as a blueprint to create a structure.
+
 + solution
 + usage
 + examples
 
 ## DialogSync Solution
 
-MD File format with attached structure of files, exchange in both sides
-+ From File Structure to Markdown File Content, **documenting a file system structure**
-+ From Markdown File to File Structure in a Git Project, **interpreting documentation to structure a Git project**
-
-
-### Roadmap
-
-A **roadmap** outlines the specific steps and milestones to develop the solution over time:
-
-1. **Initial Research and Feasibility Study** - Assess the current market needs and technical possibilities.
-2. **Prototype Development** - Create basic scripts to convert file structures to Markdown and back.
-3. **User Interface Design** - Introduce a user-friendly interface to simplify operations for non-technical users.
-4. **Feature Expansion** - Add support for advanced functionalities like nested structures, linking, and Git integration.
-5. **Alpha/Beta Testing** - Conduct user testing to gather feedback and refine the tool.
-6. **Product Launch** - Release the first official version of the solution to the market.
-7. **Post-Launch Support and Updates** - Provide customer support, fix bugs, and release updates based on user feedback.
-8. **Further Integrations and Extensions** - Develop plugins or add-ons to integrate with other tools and platforms.
-
-### Mission
-
-A **mission** statement defines the purpose of the solution and the immediate goals it aims to achieve:
-
-"Our mission is to streamline and automate the documentation process for developers and content creators, enabling them to quickly synchronize file structures with their corresponding Markdown documentation, thus saving time and reducing manual errors."
-
-### Vision
-
-A **vision** statement describes the long-term impact and aspirations of the solution:
-
-"Our vision is to become the leading solution in the field of documentation automation, empowering developers to focus on creation rather than administration and helping them maintain high-quality, accurate, and easily navigable project documentation."
-
-### Motto
-
-A **motto** is a memorable catchphrase that summarizes the spirit and benefits of the solution:
-
-"Structure Your Thoughts, Document with Precision."
-
-When formulating these strategic elements, make sure they are specific to your solution's features, user benefits, and the values of your organization. Aim for clarity, motivation, and alignment with the long-term strategy of your product or service.
-
-
-The description you provide suggests two distinct operations involving Markdown:
-
 1. Converting a file system structure into the content of a Markdown file.
 2. Interpreting the content of a Markdown file to replicate a file system structure within a Git project.
 
-These operations sound like they would be part of a documentation system, where you're either documenting a file structure or you're using a document as a blueprint to create a structure.
+
+
+
+
+## Usage
+
+Exchange in both sides
+
++ From File Structure to Markdown File Content, **documenting a file system structure**
++ From Markdown File (with attached structure of files) to File Structure in a Git Project, **interpreting documentation to structure a Git project**
+
 
 Here's how you might call these operations and achieve them:
 
