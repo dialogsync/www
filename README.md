@@ -1,14 +1,15 @@
 # www.dialogsync.com
+
 + solution
 + usage
 + examples
+
+## DialogSync Solution
 
 MD File format with attached structure of files, exchange in both sides
 + From File Structure to Markdown File Content, **documenting a file system structure**
 + From Markdown File to File Structure in a Git Project, **interpreting documentation to structure a Git project**
 
-
-To describe a solution that involves converting file structures to Markdown and vice versa, particularly within the context of a product or service roadmap, mission, vision, and motto, you need to encapsulate the benefits and objectives that your solution aims to achieve. Here's an example of how you might articulate these elements:
 
 ### Roadmap
 
