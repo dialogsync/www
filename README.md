@@ -1,6 +1,10 @@
 # www.dialogsync.com
 
+Software Requirements Specification Document in Markdown format as base to serialize whole tree directory structure and files from one Markdown file.
+
 dialogsync is a documentation system, where you're either documenting a file structure or you're using a document as a blueprint to create a structure.
+
+
 
 + solution
 + usage
